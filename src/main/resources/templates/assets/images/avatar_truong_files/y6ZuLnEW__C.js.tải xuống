@@ -1,0 +1,4 @@
+if (self.CavalryLogger) { CavalryLogger.start_js_script(document.currentScript); }
+
+__d("CometReshareDialogTargetSection.react",["CometUnit.react","CometUnitHeader.react","TetraList.react","react"],(function(a,b,c,d,e,f,g){"use strict";var h=d("react");function a(a){var b=a.children;a=a.sectionTitle;return h.jsx(c("CometUnit.react"),{header:h.jsx(c("CometUnitHeader.react"),{headline:a,level:3}),children:h.jsx(c("TetraList.react"),{children:b})})}a.displayName=a.name+" [from "+f.id+"]";g["default"]=a}),98);
+__d("CometResharesConstants",[],(function(a,b,c,d,e,f){"use strict";a=3e3;f.UNDO_DELAY_MS=a}),66);

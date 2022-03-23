@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js_script(document.currentScript); }
+
+__d("LSSyncChannel.bs",["bs_caml_int64"],(function(a,b,c,d,e,f){"use strict";a=b("bs_caml_int64").one;c=[0,2];d=[0,3];f.mqtt=a;f.http=c;f.dgw=d}),null);

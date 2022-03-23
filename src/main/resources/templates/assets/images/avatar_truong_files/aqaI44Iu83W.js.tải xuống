@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js_script(document.currentScript); }
+
+__d("GoodwillAssistedCreationConfigName",[],(function(a,b,c,d,e,f){a=Object.freeze({DIY:"diy",FATHERS_DAY:"fathers_day",FRIEND_BIRTHDAY:"friend_birthday",FRIENDVERSARY:"friendversary",MOTHERS_DAY:"mothers_day",SIBLINGS_DAY:"siblings_day",VALENTINES_DAY:"valentines_day"});f["default"]=a}),66);

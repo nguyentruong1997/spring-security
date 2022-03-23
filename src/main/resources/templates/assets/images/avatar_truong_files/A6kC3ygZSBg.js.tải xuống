@@ -1,0 +1,6 @@
+if (self.CavalryLogger) { CavalryLogger.start_js_script(document.currentScript); }
+
+__d("BirthdayCometContentQuery$Parameters",["BirthdayCometContentQuery_facebookRelayOperation"],(function(a,b,c,d,e,f){"use strict";a={kind:"PreloadableConcreteRequest",params:{id:b("BirthdayCometContentQuery_facebookRelayOperation"),metadata:{},name:"BirthdayCometContentQuery",operationKind:"query",text:null}};e.exports=a}),null);
+__d("EventCometBirthdayMegaphoneRootQuery$Parameters",["EventCometBirthdayMegaphoneRootQuery_facebookRelayOperation"],(function(a,b,c,d,e,f){"use strict";a={kind:"PreloadableConcreteRequest",params:{id:b("EventCometBirthdayMegaphoneRootQuery_facebookRelayOperation"),metadata:{},name:"EventCometBirthdayMegaphoneRootQuery",operationKind:"query",text:null}};e.exports=a}),null);
+__d("FriendingCometAllFriendsRootQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="3303339779712430"}),null);
+__d("FriendingCometBirthdayRootContentQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="4899043313495946"}),null);
