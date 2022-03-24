@@ -1,5 +1,6 @@
 package com.truongnv.springsecurity.config;
 
+import com.truongnv.springsecurity.service.UserDetailsServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -17,8 +18,8 @@ import javax.sql.DataSource;
 @EnableSpringDataWebSupport
 public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
 
-//    @Autowired
-//    private UserDetailsServiceImpl userDetailsService;
+    @Autowired
+    private UserDetailsServiceImpl userDetailsService;
 
     @Autowired
     private DataSource dataSource;
